@@ -1,0 +1,9 @@
+D:\_Document\_Code\C#\ToolMaHoa\ToolMaHoa\bin\Debug\ToolMaHoa.exe.config
+D:\_Document\_Code\C#\ToolMaHoa\ToolMaHoa\bin\Debug\ToolMaHoa.exe
+D:\_Document\_Code\C#\ToolMaHoa\ToolMaHoa\bin\Debug\ToolMaHoa.pdb
+D:\_Document\_Code\C#\ToolMaHoa\ToolMaHoa\obj\Debug\ToolMaHoa.csprojResolveAssemblyReference.cache
+D:\_Document\_Code\C#\ToolMaHoa\ToolMaHoa\obj\Debug\ToolMaHoa.Properties.Resources.resources
+D:\_Document\_Code\C#\ToolMaHoa\ToolMaHoa\obj\Debug\ToolMaHoa.csproj.GenerateResource.Cache
+D:\_Document\_Code\C#\ToolMaHoa\ToolMaHoa\obj\Debug\ToolMaHoa.exe
+D:\_Document\_Code\C#\ToolMaHoa\ToolMaHoa\obj\Debug\ToolMaHoa.pdb
+D:\_Document\_Code\C#\ToolMaHoa\ToolMaHoa\obj\Debug\ToolMaHoa.View.frmToText.resources
